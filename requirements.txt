@@ -1,0 +1,12 @@
+# --- Web Framework ---
+fastapi
+uvicorn[standard]
+
+# --- Data Science & Numeric Computation ---
+numpy
+pandas
+scikit-learn
+matplotlib
+
+# --- Configuration & Typing ---
+pydantic
